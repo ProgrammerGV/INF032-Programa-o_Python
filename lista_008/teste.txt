@@ -1,0 +1,5 @@
+Este é um arquivo de teste.
+Ele possui várias linhas para testar nossos programas.
+Vamos contar vogais, consoantes e letras!
+Python é uma linguagem de programação muito legal.
+Fim do arquivo de teste.
