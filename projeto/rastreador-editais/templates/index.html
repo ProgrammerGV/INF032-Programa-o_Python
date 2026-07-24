@@ -1,0 +1,163 @@
+{% set active_page = 'configuracoes' %}
+{% set page_title = 'Painel de Alertas' %}
+{% set page_subtitle = 'Acompanhe as últimas atualizações de editais encontradas pelo robô.' %}
+{% set page_header %}<span class="material-symbols-outlined text-primary">dashboard</span> Visão Geral & Alertas{% endset %}
+{% extends 'base.html' %}
+{% block content %}
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter mb-xl">
+<div class="bg-surface-container-lowest rounded-xl p-lg shadow-sm border border-surface-container relative overflow-hidden group">
+<div class="absolute -right-4 -bottom-4 opacity-10">
+<span class="material-symbols-outlined text-[100px] text-primary">language</span>
+</div>
+<div class="flex flex-col relative z-10">
+<span class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider mb-xs">Sites Monitorados</span>
+<span class="font-headline-xl text-headline-xl text-on-surface">{{ total_sites }}</span>
+</div>
+<div class="mt-sm h-8 w-full bg-gradient-to-r from-primary-container/20 to-transparent rounded-sm"></div>
+</div>
+<div class="bg-surface-container-lowest rounded-xl p-lg shadow-sm border border-surface-container relative overflow-hidden">
+<div class="absolute -right-4 -bottom-4 opacity-10">
+<span class="material-symbols-outlined text-[100px] text-secondary">key</span>
+</div>
+<div class="flex flex-col relative z-10">
+<span class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider mb-xs">Palavras Monitoradas</span>
+<span class="font-headline-xl text-headline-xl text-on-surface">{{ total_palavras }}</span>
+</div>
+<div class="mt-sm h-8 w-full bg-gradient-to-r from-secondary-container/20 to-transparent rounded-sm"></div>
+</div>
+<div class="bg-surface-container-lowest rounded-xl p-lg shadow-sm border border-surface-container relative overflow-hidden">
+<div class="absolute -right-4 -bottom-4 opacity-10">
+<span class="material-symbols-outlined text-[100px] text-tertiary">notifications_active</span>
+</div>
+<div class="flex flex-col relative z-10">
+<span class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider mb-xs">Alertas Encontrados</span>
+<span class="font-headline-xl text-headline-xl text-on-surface">{{ total_alertas }}</span>
+</div>
+<div class="mt-sm h-8 w-full bg-gradient-to-r from-tertiary-container/20 to-transparent rounded-sm"></div>
+</div>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter">
+<div class="lg:col-span-4 flex flex-col gap-gutter">
+<div class="bg-surface-container-lowest rounded-xl shadow-sm border border-surface-container overflow-hidden">
+<div class="p-md border-b border-surface-container flex justify-between items-center bg-surface-container-low">
+<h2 class="font-headline-md text-headline-md text-on-surface flex items-center gap-sm">
+<span class="material-symbols-outlined text-primary text-sm">settings</span>
+ Configurações
+ </h2>
+</div>
+<form method="POST" action="/salvar" class="p-lg space-y-md">
+<div>
+<label class="block font-label-md text-label-md text-on-surface-variant mb-xs">Palavras-chave</label>
+<input name="keywords" class="w-full bg-surface-container-lowest border border-outline-variant rounded-lg p-sm font-body-md text-body-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary transition-shadow" type="text" value="{{ config.keywords | join(', ') }}"/>
+</div>
+<div>
+<label class="block font-label-md text-label-md text-on-surface-variant mb-xs">Telegram Bot Token</label>
+<input name="telegram_token" class="w-full bg-surface-container-lowest border border-outline-variant rounded-lg p-sm font-body-md text-body-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary transition-shadow" type="password" value="{{ config.telegram_token }}"/>
+</div>
+<div>
+<label class="block font-label-md text-label-md text-on-surface-variant mb-xs">Telegram Chat ID</label>
+<input name="telegram_chat_id" class="w-full bg-surface-container-lowest border border-outline-variant rounded-lg p-sm font-body-md text-body-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary transition-shadow" type="text" value="{{ config.telegram_chat_id }}"/>
+</div>
+<div class="mt-md border-t border-surface-container pt-md">
+ <h3 class="font-headline-md text-headline-md text-primary mb-sm">Filtros por IA Avançada</h3>
+</div>
+<div>
+<label class="block font-label-md text-label-md text-on-surface-variant mb-xs">Gemini API Key (Opcional)</label>
+<input name="ai_api_key" class="w-full bg-surface-container-lowest border border-outline-variant rounded-lg p-sm font-body-md text-body-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary transition-shadow" type="password" value="{{ config.ai_api_key }}"/>
+</div>
+<div>
+<label class="block font-label-md text-label-md text-on-surface-variant mb-xs">Cidades Desejadas (Opcional)</label>
+<input name="filtros_cidades" class="w-full bg-surface-container-lowest border border-outline-variant rounded-lg p-sm font-body-md text-body-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary transition-shadow" type="text" placeholder="Ex: São Paulo, Rio de Janeiro" value="{{ config.filtros_cidades | join(', ') }}"/>
+</div>
+<div>
+<label class="block font-label-md text-label-md text-on-surface-variant mb-xs">Áreas Desejadas (Opcional)</label>
+<input name="filtros_areas" class="w-full bg-surface-container-lowest border border-outline-variant rounded-lg p-sm font-body-md text-body-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary transition-shadow" type="text" placeholder="Ex: TI, Saúde, Administrativo" value="{{ config.filtros_areas | join(', ') }}"/>
+</div>
+<button type="submit" class="w-full mt-md bg-primary hover:bg-primary-container text-on-primary font-label-md text-label-md py-sm px-md rounded-lg shadow-sm transition-colors duration-200 flex items-center justify-center gap-xs">
+<span class="material-symbols-outlined text-sm">save</span>
+ Salvar Configurações
+ </button>
+</form>
+</div>
+</div>
+<div class="lg:col-span-8 flex flex-col gap-gutter">
+<div class="bg-surface-container-lowest rounded-xl shadow-sm border border-surface-container overflow-hidden flex-1 flex flex-col">
+<div class="p-md border-b border-surface-container bg-surface-container-low flex justify-between items-center">
+<h2 class="font-headline-md text-headline-md text-on-surface flex items-center gap-sm">
+<span class="material-symbols-outlined text-tertiary text-sm">history</span>
+ Histórico de Alertas
+ </h2>
+<form action="/historico/limpar" method="POST" onsubmit="return confirm('Tem certeza que deseja apagar todo o historico?');">
+ <button type="submit" class="flex items-center gap-xs text-error hover:bg-error-container/20 px-2 py-1 rounded text-sm font-bold transition-colors">
+ <span class="material-symbols-outlined text-sm">delete</span> Limpar Histórico
+ </button>
+</form>
+</div>
+<div class="p-lg flex-1 overflow-x-auto">
+<table class="w-full text-left border-collapse">
+<thead>
+<tr class="border-b border-surface-container">
+<th class="pb-sm font-label-md text-label-md text-on-surface-variant font-bold">Data</th>
+<th class="pb-sm font-label-md text-label-md text-on-surface-variant font-bold">Fonte</th>
+<th class="pb-sm font-label-md text-label-md text-on-surface-variant font-bold">Palavra-chave</th>
+<th class="pb-sm font-label-md text-label-md text-on-surface-variant font-bold">Detalhes</th>
+<th class="pb-sm font-label-md text-label-md text-on-surface-variant font-bold">Status</th>
+<th class="pb-sm font-label-md text-label-md text-on-surface-variant font-bold">Ações</th>
+</tr>
+</thead>
+<tbody class="font-body-md text-body-md">
+{% for row in relatorios %}
+<tr class="border-b border-surface-container hover:bg-surface-container-lowest/50 transition-colors">
+<td class="py-sm px-xs text-on-surface">{{ row.Data }}</td>
+<td class="py-sm px-xs text-primary underline cursor-pointer"><a href="{{ row.URL }}" target="_blank">{{ row.URL[:30] }}...</a></td>
+<td class="py-sm px-xs"><span class="bg-secondary-container/30 text-on-secondary-container px-2 py-1 rounded-full text-xs font-medium">{{ row.Palavra }}</span></td>
+<td class="py-sm px-xs text-on-surface-variant">{{ row.Trecho[:40] }}...</td>
+<td class="py-sm px-xs text-on-surface-variant">
+ {% if row.Status == 'Favorito' %}
+ <span class="text-tertiary font-bold">⭐ Favorito</span>
+ {% elif row.Status == 'Lido' %}
+ <span class="text-outline">👁️ Lido</span>
+ {% else %}
+ <span class="text-primary font-bold">✨ Novo</span>
+ {% endif %}
+</td>
+<td class="py-sm px-xs flex gap-1">
+ <form action="/historico/status/{{ row.Hash_ID }}" method="POST">
+ <input type="hidden" name="status" value="Favorito">
+ <button type="submit" class="p-1 hover:bg-surface-container rounded" title="Favoritar"><span class="material-symbols-outlined text-sm text-tertiary">star</span></button>
+ </form>
+ <form action="/historico/status/{{ row.Hash_ID }}" method="POST">
+ <input type="hidden" name="status" value="Lido">
+ <button type="submit" class="p-1 hover:bg-surface-container rounded" title="Marcar como Lido"><span class="material-symbols-outlined text-sm text-outline">visibility</span></button>
+ </form>
+</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+{% if not relatorios %}
+<div class="bg-primary-fixed/30 border border-primary-fixed rounded-xl p-md flex items-start gap-md mt-md shadow-sm">
+<span class="material-symbols-outlined text-primary flex-shrink-0 mt-0.5">info</span>
+<p class="font-body-md text-body-md text-on-surface">Nenhum edital ou alerta foi encontrado ainda. Execute uma varredura!</p>
+</div>
+{% endif %}
+{% if total_pages and total_pages > 1 %}
+<div class="flex justify-end mt-md gap-xs items-center">
+ {% if page > 1 %}
+ <a href="/?page={{ page - 1 }}" class="p-xs rounded text-outline hover:bg-surface-container-low transition-colors"><span class="material-symbols-outlined text-sm">chevron_left</span></a>
+ {% else %}
+ <span class="p-xs rounded text-outline opacity-50 cursor-not-allowed"><span class="material-symbols-outlined text-sm">chevron_left</span></span>
+ {% endif %}
+ <span class="text-on-surface-variant font-label-md mx-2">Página {{ page }} de {{ total_pages }}</span>
+ {% if page < total_pages %}
+ <a href="/?page={{ page + 1 }}" class="p-xs rounded text-outline hover:bg-surface-container-low transition-colors"><span class="material-symbols-outlined text-sm">chevron_right</span></a>
+ {% else %}
+ <span class="p-xs rounded text-outline opacity-50 cursor-not-allowed"><span class="material-symbols-outlined text-sm">chevron_right</span></span>
+ {% endif %}
+</div>
+{% endif %}
+</div>
+</div>
+</div>
+</div>
+{% endblock %}

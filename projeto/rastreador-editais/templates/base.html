@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+ <meta charset="utf-8"/>
+ <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+ <title>{{ page_title|default('Rastreador de Editais') }}</title>
+ <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+ <script src="{{ url_for('static', filename='js/tailwind.config.js') }}?v=4"></script>
+ <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+ <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+ <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}?v=3">
+ <script>
+  if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.documentElement.classList.add('dark');
+  } else {
+    document.documentElement.classList.remove('dark');
+  }
+ </script>
+</head>
+<body class="bg-background text-on-background font-body-md antialiased flex transition-colors duration-300">
+ {% include 'components/sidebar.html' %}
+ <main class="flex-1 md:ml-[260px] min-h-screen bg-surface-bright flex flex-col transition-colors duration-300">
+ {% include 'components/header.html' %}
+ <div class="p-margin-desktop max-w-7xl mx-auto w-full space-y-xl">
+ {% block content %}{% endblock %}
+ </div>
+ </main>
+ <script>
+ // Script Global (Ex: Dark Mode Toggle)
+ document.addEventListener('DOMContentLoaded', () => {
+ const toggle = document.getElementById('darkModeToggle');
+ const icon = document.getElementById('darkModeIcon');
+ const html = document.documentElement;
+ 
+ if (toggle) {
+   if (html.classList.contains('dark')) {
+     icon.textContent = 'light_mode';
+   } else {
+     icon.textContent = 'dark_mode';
+   }
+
+   toggle.addEventListener('click', () => {
+     html.classList.toggle('dark');
+     if (html.classList.contains('dark')) {
+       localStorage.setItem('theme', 'dark');
+       icon.textContent = 'light_mode';
+     } else {
+       localStorage.setItem('theme', 'light');
+       icon.textContent = 'dark_mode';
+     }
+   });
+ }
+
+ // Notification Dropdown Logic
+ const notifToggle = document.getElementById('notificationToggle');
+ const notifDropdown = document.getElementById('notificationDropdown');
+ const notifContainer = document.getElementById('notificationContainer');
+ 
+ if (notifToggle && notifDropdown) {
+     notifToggle.addEventListener('click', (e) => {
+         e.stopPropagation();
+         const isHidden = notifDropdown.classList.contains('hidden');
+         
+         if (isHidden) {
+             notifDropdown.classList.remove('hidden');
+             // Trigger reflow
+             void notifDropdown.offsetWidth;
+             notifDropdown.classList.remove('opacity-0', 'scale-95');
+             notifDropdown.classList.add('opacity-100', 'scale-100');
+         } else {
+             notifDropdown.classList.remove('opacity-100', 'scale-100');
+             notifDropdown.classList.add('opacity-0', 'scale-95');
+             setTimeout(() => notifDropdown.classList.add('hidden'), 200);
+         }
+     });
+
+     document.addEventListener('click', (e) => {
+         if (notifContainer && !notifContainer.contains(e.target) && !notifDropdown.classList.contains('hidden')) {
+             notifDropdown.classList.remove('opacity-100', 'scale-100');
+             notifDropdown.classList.add('opacity-0', 'scale-95');
+             setTimeout(() => notifDropdown.classList.add('hidden'), 200);
+         }
+     });
+ }
+ });
+ </script>
+</body>
+</html>

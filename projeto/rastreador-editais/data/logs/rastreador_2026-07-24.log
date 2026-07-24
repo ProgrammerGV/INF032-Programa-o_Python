@@ -1,0 +1,705 @@
+2026-07-24 01:01:47 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:01:47 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:01:48 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:01:48 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:01:48 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:01:48 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 01:12:21 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:12:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 01:12:22 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:12:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:12:22 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:12:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:23:36 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:23:37 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:23:37 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:23:37 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:23:37 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:23:37 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 01:23:38 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 01:23:38 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 01:23:39 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 01:23:39 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 01:23:39 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 01:23:39 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 01:23:39 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 01:23:40 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 01:23:40 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 01:23:40 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 01:23:40 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 01:23:41 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 01:23:41 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:23:41 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 01:27:47 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:27:48 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:27:48 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:27:48 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:27:48 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:27:48 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 01:27:48 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 01:27:48 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 01:27:48 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 01:27:48 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 01:27:49 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 01:27:49 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 01:27:49 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 01:27:50 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 01:27:50 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 01:27:50 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 01:27:50 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 01:27:50 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 01:27:51 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:27:51 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 01:32:11 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:32:12 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 01:32:12 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:32:12 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:32:12 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:32:12 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:32:12 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 01:32:13 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 01:32:13 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 01:32:13 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 01:32:13 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 01:32:14 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 01:32:14 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 01:32:14 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 01:32:14 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 01:32:15 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 01:32:15 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 01:32:15 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 01:32:15 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 01:32:16 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 01:32:16 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:32:16 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:32:20 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:32:20 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:32:21 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:32:21 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:32:21 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:32:21 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 01:32:21 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 01:32:21 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 01:32:21 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 01:32:21 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 01:32:22 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 01:32:22 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 01:32:22 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 01:32:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 01:32:22 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 01:32:23 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 01:32:23 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 01:32:23 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 01:32:23 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:32:23 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 01:59:16 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:59:17 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 01:59:17 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:59:17 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:59:17 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:59:17 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:59:17 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 01:59:18 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 01:59:18 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 01:59:18 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 01:59:18 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 01:59:19 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 01:59:19 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 01:59:19 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 01:59:19 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 01:59:19 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 01:59:20 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 01:59:20 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 01:59:21 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 01:59:21 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 01:59:21 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 01:59:21 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 01:59:21 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 01:59:21 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:59:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 01:59:22 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 01:59:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:59:23 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 01:59:23 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 01:59:23 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 01:59:23 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 01:59:24 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 01:59:24 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:59:24 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:59:29 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 01:59:30 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 01:59:30 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 01:59:30 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:59:30 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 01:59:30 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 01:59:30 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 01:59:30 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 01:59:30 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 01:59:30 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 01:59:31 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 01:59:31 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 01:59:31 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 01:59:32 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 01:59:32 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 01:59:32 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 01:59:32 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 01:59:32 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 01:59:32 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 01:59:33 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 02:22:39 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 02:22:39 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 02:22:39 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 02:22:48 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 02:22:48 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:22:49 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:22:49 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 02:22:49 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 02:22:49 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 02:22:49 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 02:22:49 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 02:22:49 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 02:22:50 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 02:22:50 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 02:22:50 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 02:22:50 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 02:22:50 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 02:22:50 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:22:51 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 02:22:51 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 02:22:53 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:22:53 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 02:22:53 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 02:22:53 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 02:22:53 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 02:22:53 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 02:22:53 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 02:22:53 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 02:22:54 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 02:22:54 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 02:22:54 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 02:22:54 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 02:22:54 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 02:22:54 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 02:22:55 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 02:22:55 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:22:56 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 02:22:56 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:22:56 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 02:22:57 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 02:22:57 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 02:22:58 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 02:22:58 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:22:58 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:23:00 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 02:23:01 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 02:23:01 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 02:23:02 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 02:23:02 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:23:06 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:23:06 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 02:23:06 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 02:23:06 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 02:23:06 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.vunesp.com.br/
+2026-07-24 02:23:06 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 02:23:07 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 02:23:07 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 02:23:07 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 02:23:07 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 02:23:08 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 02:23:08 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 02:23:08 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 02:23:08 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 02:23:09 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 02:23:09 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:23:09 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:23:17 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'Analista de Sistemas'
+2026-07-24 02:37:49 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 02:37:49 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 02:37:49 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 02:37:50 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 02:37:50 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:37:50 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:37:50 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 02:37:51 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 02:37:51 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 02:37:51 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 02:37:51 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 02:37:52 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 02:37:52 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 02:37:52 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 02:37:52 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 02:37:53 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 02:37:53 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 02:37:54 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 02:37:54 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 02:37:54 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 02:37:54 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:37:55 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:43:05 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 02:43:07 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:07 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:08 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:09 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:10 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:14 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:15 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:16 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:17 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:17 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 02:43:17 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 02:43:17 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:43:18 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:43:18 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 02:43:19 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 02:43:19 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 02:43:19 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 02:43:19 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 02:43:20 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 02:43:20 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 02:43:21 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'resultado'
+2026-07-24 02:43:21 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 02:43:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 02:43:22 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 02:43:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 02:43:22 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 02:43:23 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 02:43:23 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:43:24 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:25 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:26 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:27 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:28 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'retificacao'
+2026-07-24 02:43:29 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:29 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'retificacao'
+2026-07-24 02:43:33 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:34 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:35 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:43:36 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:37 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:37 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:38 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:39 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:40 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:41 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:42 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:42 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:43 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:44 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:45 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:46 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:46 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:47 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:48 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:49 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:43:49 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 02:53:34 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 02:53:35 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 02:53:35 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 02:53:35 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 02:53:35 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:53:36 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:53:36 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 02:53:36 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 02:53:36 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 02:53:37 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 02:53:37 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 02:53:38 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 02:53:38 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 02:53:38 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 02:53:38 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 02:53:39 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 02:53:39 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 02:53:39 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 02:53:39 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 02:53:40 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 02:53:40 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:53:40 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:54:13 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 02:54:15 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:16 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:16 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:17 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:18 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:22 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:23 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:24 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:25 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:25 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 02:54:25 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 02:54:25 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:54:25 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 02:54:25 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 02:54:25 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 02:54:25 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 02:54:26 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 02:54:26 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 02:54:26 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 02:54:26 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 02:54:27 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'resultado'
+2026-07-24 02:54:27 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 02:54:28 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 02:54:28 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 02:54:28 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 02:54:28 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 02:54:29 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 02:54:29 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 02:54:30 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:31 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:32 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:33 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:34 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'retificacao'
+2026-07-24 02:54:35 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:36 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'retificacao'
+2026-07-24 02:54:36 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:41 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:41 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 02:54:42 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:43 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:44 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:45 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:46 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:47 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:47 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:48 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:49 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:50 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:51 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:52 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:52 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:53 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:54 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:55 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:56 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 02:54:56 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 03:12:19 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 03:12:19 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 03:12:19 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 03:12:20 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 03:12:20 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 03:12:21 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 03:12:21 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 03:12:21 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 03:12:21 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 03:12:22 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.vunesp.com.br/
+2026-07-24 03:12:22 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 03:12:23 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 03:12:23 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 03:12:23 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 03:12:23 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 03:12:24 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 03:12:24 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 03:12:24 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 03:12:24 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 03:12:25 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 03:12:25 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 03:12:25 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 03:16:40 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 03:16:40 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 03:16:40 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 03:16:40 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 03:16:40 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 03:16:41 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 03:16:41 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 03:16:41 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 03:16:41 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 03:16:41 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 03:16:41 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 03:16:42 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 03:16:42 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 03:16:42 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 03:16:42 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 03:16:43 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 03:16:43 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 03:16:43 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 03:16:43 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 03:16:43 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 03:16:43 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 03:16:44 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 03:19:59 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 03:20:01 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:02 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:03 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:04 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:04 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:09 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:09 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:11 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:12 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:12 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 03:20:13 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 03:20:13 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 03:20:13 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 03:20:13 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 03:20:14 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 03:20:14 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 03:20:14 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 03:20:14 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 03:20:15 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 03:20:15 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 03:20:16 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'resultado'
+2026-07-24 03:20:16 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 03:20:17 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 03:20:17 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 03:20:18 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 03:20:18 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 03:20:18 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 03:20:18 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 03:20:20 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:21 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:22 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:23 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:23 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'retificacao'
+2026-07-24 03:20:24 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:25 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'retificacao'
+2026-07-24 03:20:29 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:30 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:31 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 03:20:32 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:33 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:34 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:35 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:36 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:36 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:39 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:40 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:41 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:41 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:42 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:43 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:44 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:45 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:46 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:47 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:48 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 03:20:48 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 03:23:47 - RastreadorEditais - INFO - Iniciando loop do monitor 24/7...
+2026-07-24 03:30:28 - RastreadorEditais - INFO - Iniciando loop do monitor 24/7...
+2026-07-24 03:35:43 - RastreadorEditais - INFO - Iniciando loop do monitor 24/7...
+2026-07-24 03:36:06 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 03:36:06 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 03:36:06 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 03:36:07 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 03:36:07 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 03:36:07 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 03:36:07 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 03:36:07 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 03:36:07 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 03:36:08 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.vunesp.com.br/
+2026-07-24 03:36:08 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 03:36:09 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 03:36:09 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 03:36:09 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 03:36:09 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 03:36:11 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 03:36:11 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 03:36:11 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 03:36:11 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 03:36:12 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 03:36:12 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 03:36:13 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:15:50 - RastreadorEditais - INFO - Iniciando loop do monitor 24/7...
+2026-07-24 12:16:12 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 12:16:13 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 12:16:13 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 12:16:13 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 12:16:13 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:16:13 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:16:13 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 12:16:14 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 12:16:14 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 12:16:14 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 12:16:14 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 12:16:14 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 12:16:14 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 12:16:15 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 12:16:15 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 12:16:15 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 12:16:15 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 12:16:16 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 12:16:16 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 12:16:16 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 12:16:16 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:16:17 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:16:17 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 12:20:47 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 12:20:49 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:49 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:50 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:51 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:52 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:55 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:56 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:57 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:58 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:20:58 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 12:20:58 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 12:20:58 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:20:58 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:20:58 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 12:20:59 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 12:20:59 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 12:20:59 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 12:20:59 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 12:21:00 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 12:21:00 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 12:21:01 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'resultado'
+2026-07-24 12:21:01 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 12:21:01 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 12:21:01 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 12:21:01 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 12:21:01 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 12:21:01 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 12:21:01 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:21:03 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:21:03 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:21:04 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:21:05 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:21:06 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'retificacao'
+2026-07-24 12:21:06 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:21:07 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'retificacao'
+2026-07-24 12:21:08 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:21:09 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:21:13 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 12:21:13 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:14 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:15 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:15 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:16 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:17 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:18 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:18 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:19 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:20 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:20 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:21 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:22 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:23 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:23 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:24 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:25 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:25 - RastreadorEditais - ERROR - Erro ao enviar notificacao via Telegram: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I/sendMessage
+2026-07-24 12:21:25 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv
+2026-07-24 12:22:43 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 12:22:43 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 12:22:43 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:22:44 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:22:44 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 12:22:44 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 12:22:44 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 12:22:44 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 12:22:44 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 12:22:45 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 12:22:45 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 12:22:45 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 12:22:45 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 12:22:46 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 12:22:46 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 12:22:46 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 12:22:46 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 12:22:46 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 12:22:46 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:22:47 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:22:47 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 12:22:52 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 12:22:52 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 12:22:52 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:22:52 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:22:52 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 12:22:53 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 12:22:53 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 12:22:53 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 12:22:53 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 12:22:53 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 12:22:53 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 12:22:53 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 12:22:53 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 12:22:54 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 12:22:54 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 12:22:54 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 12:22:54 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 12:22:54 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 12:22:54 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 12:22:54 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:22:55 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:22:55 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 12:22:55 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 12:26:44 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 12:26:44 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 12:26:44 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:26:45 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:26:45 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 12:26:45 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 12:26:45 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 12:26:45 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 12:26:45 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 12:26:46 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 12:26:46 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 12:26:46 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 12:26:46 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 12:26:46 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 12:26:46 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 12:26:47 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 12:26:47 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 12:26:47 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 12:26:47 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:26:47 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:26:47 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 12:26:48 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 12:37:55 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 12:37:56 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 12:37:56 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:37:56 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 12:37:56 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 12:37:56 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 12:37:56 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 12:37:56 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 12:37:56 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 12:37:57 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 12:37:57 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 12:37:57 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 12:37:57 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 12:37:58 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 12:37:58 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 12:37:58 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 12:37:58 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 12:37:58 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 12:37:58 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:37:59 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.pciconcursos.com.br/noticias/
+2026-07-24 12:37:59 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 12:38:00 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 14:58:51 - RastreadorEditais - INFO - Iniciando loop do monitor 24/7...
+2026-07-24 14:59:44 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-24 14:59:44 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-24 14:59:44 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-24 14:59:45 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-24 14:59:45 - RastreadorEditais - INFO - Buscando URL: https://www.concursosfcc.com.br/
+2026-07-24 14:59:45 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.concursosfcc.com.br/
+2026-07-24 14:59:45 - RastreadorEditais - INFO - Buscando URL: https://www.vunesp.com.br/
+2026-07-24 14:59:45 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.vunesp.com.br/: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/
+2026-07-24 14:59:45 - RastreadorEditais - INFO - Buscando URL: https://www.ibfc.org.br/
+2026-07-24 14:59:46 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://www.ibfc.org.br/: 403 Client Error: Forbidden for url: https://www.ibfc.org.br/
+2026-07-24 14:59:46 - RastreadorEditais - INFO - Buscando URL: https://www.institutoaocp.org.br/
+2026-07-24 14:59:46 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.institutoaocp.org.br/
+2026-07-24 14:59:46 - RastreadorEditais - INFO - Buscando URL: https://www.quadrix.org.br/
+2026-07-24 14:59:47 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.quadrix.org.br/
+2026-07-24 14:59:47 - RastreadorEditais - INFO - Buscando URL: https://www.consulplan.net/
+2026-07-24 14:59:47 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.consulplan.net/
+2026-07-24 14:59:47 - RastreadorEditais - INFO - Buscando URL: https://www.fundatec.org.br/
+2026-07-24 14:59:47 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.fundatec.org.br/
+2026-07-24 14:59:47 - RastreadorEditais - INFO - Buscando URL: https://www.pciconcursos.com.br/noticias/
+2026-07-24 14:59:48 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 14:59:49 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 14:59:50 - RastreadorEditais - INFO - Notificacao enviada via Telegram com sucesso para o item 'edital'
+2026-07-24 14:59:50 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/
+2026-07-24 14:59:51 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://idecan.org.br/
+2026-07-24 14:59:51 - RastreadorEditais - INFO - Relatorio salvo em: /app/data/relatorios/relatorio_2026-07-24.csv

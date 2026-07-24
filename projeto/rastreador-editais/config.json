@@ -1,0 +1,35 @@
+{
+  "urls": [
+    "https://conhecimento.fgv.br/concursos",
+    "https://www.cebraspe.org.br/concursos/",
+    "https://www.concursosfcc.com.br/",
+    "https://www.vunesp.com.br/",
+    "https://www.ibfc.org.br/",
+    "https://www.institutoaocp.org.br/",
+    "https://www.quadrix.org.br/",
+    "https://www.consulplan.net/",
+    "https://www.fundatec.org.br/",
+    "https://www.pciconcursos.com.br/noticias/",
+    "https://idecan.org.br/"
+  ],
+  "keywords": [
+    "edital",
+    "convocacao",
+    "resultado",
+    "gabarito",
+    "inscricao",
+    "retificacao"
+  ],
+  "schedule_time": "08:00",
+  "timeout_seconds": 15,
+  "telegram_token": "8686541660:AAHUcbI_Umvq8wEubYeWG9SBCQLwE8YoY1I",
+  "telegram_chat_id": "@concursosbrpublicos",
+  "ai_api_key": "",
+  "filtros_cidades": [
+    "Bahia"
+  ],
+  "filtros_areas": [
+    "medicina"
+  ],
+  "paused_urls": []
+}

@@ -1,0 +1,59 @@
+<header class="flex justify-between items-center w-full px-margin-desktop py-md bg-surface border-b border-surface-variant sticky top-0 z-30 shadow-[0px_2px_10px_rgba(0,0,0,0.02)]">
+<div>
+<h2 class="font-headline-lg text-headline-lg font-bold text-on-surface flex items-center gap-sm">
+{{ page_header | safe if page_header else page_title | default('Rastreador de Editais') }}
+</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">{{ page_subtitle|default('') }}</p>
+</div>
+<div class="flex items-center gap-md">
+{% if success_msg %}
+<span class="text-secondary font-label-md bg-secondary-container/20 px-3 py-1 rounded-full">{{ success_msg }}</span>
+{% endif %}
+<button id="darkModeToggle" class="p-2 rounded-full text-on-surface-variant hover:bg-surface-container-low hover:text-primary transition-colors cursor-pointer active:opacity-70 flex items-center justify-center">
+<span class="material-symbols-outlined text-[24px]" id="darkModeIcon">dark_mode</span>
+</button>
+<div class="relative" id="notificationContainer">
+    <button id="notificationToggle" class="p-2 rounded-full text-on-surface-variant hover:bg-surface-container-low hover:text-primary transition-colors cursor-pointer active:opacity-70 flex items-center justify-center relative">
+        <span class="material-symbols-outlined text-[24px]">notifications</span>
+        {% if unread_count and unread_count > 0 %}
+        <span class="absolute top-1 right-1 w-4 h-4 bg-error text-on-error rounded-full flex items-center justify-center text-[10px] font-bold shadow-sm">{{ unread_count }}</span>
+        {% endif %}
+    </button>
+
+    <!-- Dropdown Menu -->
+    <div id="notificationDropdown" class="hidden absolute right-0 mt-2 w-80 bg-surface-container-lowest border border-surface-container shadow-[0px_8px_30px_rgba(0,0,0,0.12)] rounded-xl overflow-hidden z-50 flex-col origin-top-right transition-transform transform opacity-0 scale-95 duration-200">
+        <div class="p-md border-b border-surface-container bg-surface-container-low flex justify-between items-center">
+            <h3 class="font-headline-md text-[16px] font-bold text-on-surface flex items-center gap-xs">
+                <span class="material-symbols-outlined text-primary text-[20px]">notifications_active</span> Notificações
+            </h3>
+            <span class="bg-primary/10 text-primary font-label-sm px-2 py-0.5 rounded-full">{{ unread_count if unread_count else 0 }} Novas</span>
+        </div>
+        <div class="max-h-[300px] overflow-y-auto">
+            {% if recent_alerts and recent_alerts|length > 0 %}
+                {% for alert in recent_alerts %}
+                <a href="/" class="flex flex-col p-md border-b border-surface-container hover:bg-surface-container-low transition-colors group">
+                    <div class="flex justify-between items-start mb-1">
+                        <span class="font-label-md text-primary font-bold line-clamp-1">{{ alert.Fonte }}</span>
+                        <span class="font-label-sm text-on-surface-variant text-[10px]">{{ alert.Data.split(' ')[0] if alert.Data else '' }}</span>
+                    </div>
+                    <p class="font-body-md text-on-surface text-[13px] line-clamp-2 leading-tight group-hover:text-primary transition-colors">
+                        {{ alert.Detalhes }}
+                    </p>
+                </a>
+                {% endfor %}
+            {% else %}
+                <div class="p-xl text-center flex flex-col items-center">
+                    <span class="material-symbols-outlined text-outline text-[40px] mb-sm opacity-50">done_all</span>
+                    <p class="font-body-md text-on-surface-variant text-[14px]">Nenhum alerta novo por enquanto.</p>
+                </div>
+            {% endif %}
+        </div>
+        {% if unread_count and unread_count > 0 %}
+        <div class="p-sm bg-surface text-center border-t border-surface-container">
+            <a href="/" class="font-label-md text-primary hover:underline text-[13px]">Ver todos os {{ unread_count }} alertas no Painel</a>
+        </div>
+        {% endif %}
+    </div>
+</div>
+</div>
+</header>

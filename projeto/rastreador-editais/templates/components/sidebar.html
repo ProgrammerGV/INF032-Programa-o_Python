@@ -1,0 +1,39 @@
+<aside class="fixed left-0 top-0 h-full z-40 flex flex-col bg-surface-container-lowest shadow-[0px_4px_20px_rgba(0,0,0,0.05)] w-[260px] border-r border-surface-variant hidden md:flex">
+<div class="flex items-center gap-3 p-lg border-b border-surface-variant">
+<span class="material-symbols-outlined text-primary" data-weight="fill" style="font-variation-settings: 'FILL' 1;">radar</span>
+<div>
+<h1 class="font-headline-md text-headline-md font-bold text-primary leading-tight">Rastreador de Editais</h1>
+</div>
+</div>
+<nav class="flex-1 py-lg px-md space-y-base overflow-y-auto">
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors duration-200 cursor-pointer active:scale-95 transition-transform group {% if active_page == 'acoes' %}border-l-4 border-primary bg-surface-container-high text-primary font-bold {% else %}text-on-surface-variant hover:bg-surface-container-low{% endif %}" href="/rastrear">
+<span class="material-symbols-outlined transition-colors {% if active_page == 'acoes' %}text-primary{% else %}text-outline group-hover:text-primary{% endif %}" {% if active_page == 'acoes' %}style="font-variation-settings: 'FILL' 1;"{% endif %}>sync</span>
+<span class="font-label-md text-label-md">Forçar Varredura Agora</span>
+</a>
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors duration-200 cursor-pointer active:scale-95 transition-transform group {% if active_page == 'sites' %}border-l-4 border-primary bg-surface-container-high text-primary font-bold {% else %}text-on-surface-variant hover:bg-surface-container-low{% endif %}" href="/sites">
+<span class="material-symbols-outlined transition-colors {% if active_page == 'sites' %}text-primary{% else %}text-outline group-hover:text-primary{% endif %}" {% if active_page == 'sites' %}style="font-variation-settings: 'FILL' 1;"{% endif %}>account_balance</span>
+<span class="font-label-md text-label-md">Bancas Monitoradas</span>
+</a>
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors duration-200 cursor-pointer active:scale-95 transition-transform group {% if active_page == 'diretorio' %}border-l-4 border-primary bg-surface-container-high text-primary font-bold {% else %}text-on-surface-variant hover:bg-surface-container-low{% endif %}" href="/diretorio">
+<span class="material-symbols-outlined transition-colors {% if active_page == 'diretorio' %}text-primary{% else %}text-outline group-hover:text-primary{% endif %}" {% if active_page == 'diretorio' %}style="font-variation-settings: 'FILL' 1;"{% endif %}>public</span>
+<span class="font-label-md text-label-md">Mural de Concursos</span>
+</a>
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors duration-200 cursor-pointer active:scale-95 transition-transform group {% if active_page == 'telegram' %}border-l-4 border-primary bg-surface-container-high text-primary font-bold {% else %}text-on-surface-variant hover:bg-surface-container-low{% endif %}" href="https://t.me/concursosbrpublicos" target="_blank">
+<span class="material-symbols-outlined transition-colors {% if active_page == 'telegram' %}text-primary{% else %}text-outline group-hover:text-primary{% endif %}" {% if active_page == 'telegram' %}style="font-variation-settings: 'FILL' 1;"{% endif %}>notifications_active</span>
+<span class="font-label-md text-label-md">Comunidade Telegram</span>
+</a>
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors duration-200 cursor-pointer active:scale-95 transition-transform group {% if active_page == 'configuracoes' %}border-l-4 border-primary bg-surface-container-high text-primary font-bold {% else %}text-on-surface-variant hover:bg-surface-container-low{% endif %}" href="/">
+<span class="material-symbols-outlined transition-colors {% if active_page == 'configuracoes' %}text-primary{% else %}text-outline group-hover:text-primary{% endif %}" {% if active_page == 'configuracoes' %}style="font-variation-settings: 'FILL' 1;"{% endif %}>dashboard</span>
+<span class="font-label-md text-label-md">Painel de Alertas</span>
+</a>
+</nav>
+<div class="p-md border-t border-surface-variant">
+<div class="flex items-center gap-3 px-4 py-2 hover:bg-surface-container-low rounded-lg transition-colors cursor-pointer">
+<img alt="Foto de Perfil do Usuário" class="w-10 h-10 rounded-full object-cover shadow-sm bg-surface-variant border border-outline-variant" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDzlB7-yuoQ-ra1AzIkWGnTt8G29XIBsmKyEJq5CXhSFapEE7H6lShazwCNXjAylHI8X99fyCVJZfTjYmgQacWb4fEhZkgkX-YqgNsfGjCiVD9ZeDi1hGh5k7PCkQ9_sF1YyScIJlXNTKxJvX8AeSxjXWlvtQY645UZi0yhk4z03qOnmPlM-S5PsSkxmN0Dc-1sgVbTnxHbcfGzyUyqp0Hnj1Uk46xGqJ0zB8WkM5tCV7RRRNUbUb5IxwBIqrKtCruWNLharvdCekGr"/>
+<div class="flex flex-col">
+<span class="font-label-md text-label-md text-on-surface">U. Usuário Admin</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Admin</span>
+</div>
+</div>
+</div>
+</aside>

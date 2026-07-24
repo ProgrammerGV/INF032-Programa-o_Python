@@ -1,0 +1,22 @@
+2026-07-23 21:18:21 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/concursos
+2026-07-23 21:18:28 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://idecan.org.br/concursos: 404 Client Error: Not Found for url: https://idecan.org.br/concursos
+2026-07-23 21:18:28 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-23 21:18:28 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-23 21:18:28 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-23 21:18:29 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-23 21:18:51 - RastreadorEditais - INFO - Buscando URL: https://idecan.org.br/concursos
+2026-07-23 21:18:52 - RastreadorEditais - ERROR - Erro HTTP ao acessar https://idecan.org.br/concursos: 404 Client Error: Not Found for url: https://idecan.org.br/concursos
+2026-07-23 21:18:52 - RastreadorEditais - INFO - Buscando URL: https://conhecimento.fgv.br/concursos
+2026-07-23 21:18:52 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://conhecimento.fgv.br/concursos
+2026-07-23 21:18:52 - RastreadorEditais - INFO - Buscando URL: https://www.cebraspe.org.br/concursos/
+2026-07-23 21:18:52 - RastreadorEditais - INFO - Nenhuma novidade encontrada para: https://www.cebraspe.org.br/concursos/
+2026-07-23 21:22:12 - RastreadorEditais - INFO - Buscando URL: https://site.com
+2026-07-23 21:22:12 - RastreadorEditais - INFO - Buscando URL: https://site.com
+2026-07-23 21:22:12 - RastreadorEditais - ERROR - Timeout ao acessar https://site.com (Tempo maximo: 15s): Timeout error
+2026-07-23 21:22:12 - RastreadorEditais - INFO - Buscando URL: https://site.com
+2026-07-23 21:22:12 - RastreadorEditais - ERROR - Erro de Conexao ao acessar https://site.com: Connection error
+2026-07-23 21:23:12 - RastreadorEditais - INFO - Buscando URL: https://site.com
+2026-07-23 21:23:12 - RastreadorEditais - INFO - Buscando URL: https://site.com
+2026-07-23 21:23:12 - RastreadorEditais - ERROR - Timeout ao acessar https://site.com (Tempo maximo: 15s): Timeout error
+2026-07-23 21:23:12 - RastreadorEditais - INFO - Buscando URL: https://site.com
+2026-07-23 21:23:12 - RastreadorEditais - ERROR - Erro de Conexao ao acessar https://site.com: Connection error

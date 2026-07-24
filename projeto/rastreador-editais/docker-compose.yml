@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  monitor:
+    build: .
+    container_name: rastreador_monitor
+    volumes:
+      - ./data:/app/data
+      - ./config.json:/app/config.json
+    # Usando o comando para rodar o agendamento em background (-c no script ou rodar um script python direto)
+    # Mas como o monitor.py tem executar_varredura(), podemos rodá-lo:
+    command: python run_monitor.py
+    restart: unless-stopped
+
+  dashboard:
+    build: .
+    container_name: rastreador_dashboard
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/app/data
+      - ./config.json:/app/config.json
+    command: python app.py
+    restart: unless-stopped
