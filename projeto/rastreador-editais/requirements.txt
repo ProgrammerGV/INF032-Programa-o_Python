@@ -1,0 +1,13 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+schedule==1.2.1
+rich==13.7.1
+fake-useragent==1.5.1
+colorama==0.4.6
+pytest
+pytest-mock
+flask
+pandas
+google-generativeai
+PyPDF2
+gunicorn
