@@ -72,8 +72,8 @@ def index ():
     total_alertas =total_alertas ,
     relatorios =relatorios ,
     page =page ,
-    total_pages =total_pages 
-    ,success_msg=request.args.get('success_msg')
+    total_pages =total_pages,
+    success_msg=request.args.get('success_msg')
     )
 
 @app .route ('/salvar',methods =['POST'])

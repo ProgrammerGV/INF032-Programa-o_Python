@@ -21,7 +21,7 @@ O menu oferecerá opções para varredura manual, agendamento de execução e le
 
 ## Demonstração pública
 
-O Blueprint `render.yaml` do [portfólio](https://github.com/ProgrammerGV/programmergv.github.io) prepara a hospedagem gratuita do painel web. A ativação da conta e do serviço Render permanece pendente.
+O Blueprint `render.yaml` do [portfólio](https://github.com/ProgrammerGV/programmergv.github.io) prepara a hospedagem gratuita do painel web. A demonstração está publicada no serviço existente em https://inf032-programa-o-python.onrender.com/, mantido no plano Free.
 
 Com `RASTREADOR_PUBLIC_DEMO=1`, a aplicação usa duas fontes oficiais fixas, varredura manual com intervalo mínimo de dois minutos, histórico separado em `data/public-demo` e nenhuma credencial de Telegram ou IA. Alterações de configuração são bloqueadas no servidor e os controles correspondentes ficam desabilitados na interface. O histórico da hospedagem gratuita pode reiniciar quando o serviço reiniciar.
 
