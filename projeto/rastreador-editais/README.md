@@ -28,3 +28,8 @@ Com `RASTREADOR_PUBLIC_DEMO=1`, a aplicação usa duas fontes oficiais fixas, va
 A demonstração instala `requirements-demo.txt` e inicia com `gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --threads 1 --timeout 120`. O comando de produção não usa o servidor de desenvolvimento com debug. A rota `/healthz` permite verificar a disponibilidade.
 
 Treze testes locais passaram, incluindo configuração fixa sem credenciais, bloqueio das alterações públicas e intervalo entre varreduras.
+
+
+## GitHub Actions
+
+Os testes são executados automaticamente em pushes e pull requests para `main`. Consulte [CI e publicação](docs/cicd.md) para o funcionamento e o estado da integração com o Render.

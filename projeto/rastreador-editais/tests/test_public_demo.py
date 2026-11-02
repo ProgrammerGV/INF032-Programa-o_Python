@@ -31,3 +31,12 @@ def test_public_scans_are_cooled_down_without_external_notifications(monkeypatch
         assert client.get('/rastrear').status_code == 302
         assert client.get('/rastrear').status_code == 302
     assert calls == ['scan']
+
+
+def test_health_identifies_deployed_commit(monkeypatch):
+    monkeypatch.setenv('RENDER_GIT_COMMIT', 'a' * 40)
+    module = importlib.import_module('app')
+    with module.app.test_client() as client:
+        response = client.get('/healthz')
+    assert response.status_code == 200
+    assert response.json['commit'] == 'a' * 40

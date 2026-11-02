@@ -27,7 +27,10 @@ def demo_context():
 
 @app.get('/healthz')
 def healthz():
-    return {'status': 'ok'}
+    status = {'status': 'ok'}
+    if os.environ.get('RENDER_GIT_COMMIT'):
+        status['commit'] = os.environ['RENDER_GIT_COMMIT']
+    return status
 
 @app.context_processor
 def inject_notifications():
