@@ -18,3 +18,13 @@ Execute o CLI interativo:
 python main.py
 ```
 O menu oferecerá opções para varredura manual, agendamento de execução e leitura de relatórios.
+
+## Demonstração pública
+
+O Blueprint `render.yaml` do [portfólio](https://github.com/ProgrammerGV/programmergv.github.io) prepara a hospedagem gratuita do painel web. A ativação da conta e do serviço Render permanece pendente.
+
+Com `RASTREADOR_PUBLIC_DEMO=1`, a aplicação usa duas fontes oficiais fixas, varredura manual com intervalo mínimo de dois minutos, histórico separado em `data/public-demo` e nenhuma credencial de Telegram ou IA. Alterações de configuração são bloqueadas no servidor e os controles correspondentes ficam desabilitados na interface. O histórico da hospedagem gratuita pode reiniciar quando o serviço reiniciar.
+
+A demonstração instala `requirements-demo.txt` e inicia com `gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --threads 1 --timeout 120`. O comando de produção não usa o servidor de desenvolvimento com debug. A rota `/healthz` permite verificar a disponibilidade.
+
+Treze testes locais passaram, incluindo configuração fixa sem credenciais, bloqueio das alterações públicas e intervalo entre varreduras.

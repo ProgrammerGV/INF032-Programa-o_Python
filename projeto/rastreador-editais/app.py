@@ -1,10 +1,33 @@
+import os
+import threading
+import time
 from flask import Flask ,render_template ,request ,redirect ,url_for ,flash 
 import pandas as pd 
 from src .storage import carregar_config ,salvar_config ,carregar_todos_relatorios 
 from src .monitor import executar_varredura 
 
 app =Flask (__name__ )
-app .secret_key ='super_secret_luminous_key'
+app.secret_key = os.environ.get('FLASK_SECRET_KEY') or os.urandom(32)
+app.config['PUBLIC_DEMO'] = os.environ.get('RASTREADOR_PUBLIC_DEMO') == '1'
+app.config['MAX_CONTENT_LENGTH'] = 64 * 1024
+scan_lock = threading.Lock()
+last_public_scan = 0.0
+
+
+@app.before_request
+def public_demo_guard():
+    if app.config['PUBLIC_DEMO'] and request.method == 'POST':
+        return 'A demonstração pública usa configuração fixa. Explore as consultas e a varredura manual.', 403
+
+
+@app.context_processor
+def demo_context():
+    return {'public_demo': app.config['PUBLIC_DEMO']}
+
+
+@app.get('/healthz')
+def healthz():
+    return {'status': 'ok'}
 
 @app.context_processor
 def inject_notifications():
@@ -78,6 +101,18 @@ def salvar ():
 
 @app .route ('/rastrear')
 def rastrear ():
+    global last_public_scan
+    if app.config['PUBLIC_DEMO']:
+        if not scan_lock.acquire(blocking=False):
+            return redirect(url_for('index', success_msg='Uma varredura já está em andamento.'))
+        try:
+            if last_public_scan and time.monotonic() - last_public_scan < 120:
+                return redirect(url_for('index', success_msg='Confira o resultado recente. Nova varredura disponível em até dois minutos.'))
+            executar_varredura()
+            last_public_scan = time.monotonic()
+        finally:
+            scan_lock.release()
+        return redirect(url_for('index', success_msg='Varredura das fontes de demonstração concluída.'))
     executar_varredura ()
     return redirect (url_for ('index',success_msg ="Varredura concluida com sucesso!"))
 

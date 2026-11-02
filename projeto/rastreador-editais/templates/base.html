@@ -22,12 +22,22 @@
  <main class="flex-1 md:ml-[260px] min-h-screen bg-surface-bright flex flex-col transition-colors duration-300">
  {% include 'components/header.html' %}
  <div class="p-margin-desktop max-w-7xl mx-auto w-full space-y-xl">
+ {% if public_demo %}
+ <div role="note" class="rounded-xl border border-blue-200 bg-blue-50 p-4 text-sm text-blue-900">Demonstração pública: varredura manual de duas fontes oficiais. Configuração fixa; sem notificações externas.</div>
+ {% endif %}
  {% block content %}{% endblock %}
  </div>
  </main>
  <script>
  // Script Global (Ex: Dark Mode Toggle)
  document.addEventListener('DOMContentLoaded', () => {
+ {% if public_demo %}
+ document.querySelectorAll('form').forEach(form => {
+   if ((form.getAttribute('method') || 'get').toLowerCase() === 'post') {
+     form.querySelectorAll('input, select, textarea, button').forEach(control => control.disabled = true);
+   }
+ });
+ {% endif %}
  const toggle = document.getElementById('darkModeToggle');
  const icon = document.getElementById('darkModeIcon');
  const html = document.documentElement;

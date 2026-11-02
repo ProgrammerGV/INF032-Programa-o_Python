@@ -1,3 +1,4 @@
+import os
 import json 
 import csv 
 import pandas as pd 
@@ -8,7 +9,7 @@ from typing import Dict ,List ,Any
 from .logger import logger 
 
 BASE_DIR =Path (__file__ ).parent .parent 
-DATA_DIR =BASE_DIR /"data"
+DATA_DIR =BASE_DIR /"data" /"public-demo" if os.environ.get('RASTREADOR_PUBLIC_DEMO') == '1' else BASE_DIR /"data"
 RELATORIOS_DIR =DATA_DIR /"relatorios"
 CONFIG_FILE =BASE_DIR /"config.json"
 HISTORICO_FILE =DATA_DIR /"historico.json"
@@ -19,6 +20,9 @@ RELATORIOS_DIR .mkdir (parents =True ,exist_ok =True )
 
 def carregar_config ()->Dict [str ,Any ]:
     """Lê o arquivo config.json."""
+    if os.environ.get('RASTREADOR_PUBLIC_DEMO') == '1':
+        from .public_demo import demo_config
+        return demo_config()
     if not CONFIG_FILE .exists ():
         logger .error (f"Arquivo de configuracao nao encontrado: {CONFIG_FILE }")
         return {"urls":[],"keywords":[],"schedule_time":"08:00","timeout_seconds":15 }
