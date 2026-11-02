@@ -73,6 +73,7 @@ def index ():
     relatorios =relatorios ,
     page =page ,
     total_pages =total_pages 
+    ,success_msg=request.args.get('success_msg')
     )
 
 @app .route ('/salvar',methods =['POST'])

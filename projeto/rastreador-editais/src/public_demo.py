@@ -4,8 +4,8 @@
 def demo_config():
     return {
         'urls': [
-            'https://portal.ifba.edu.br/dgcom/editais',
-            'https://portal.ifba.edu.br/simoes-filho/institucional/processos-seletivos/estagio-externo/estagio-externo-2026',
+            'https://ifbaiano.edu.br/portal/concursos/',
+            'https://www.ifbaiano.edu.br/unidades/itapetinga/concursos-e-selecoes/',
         ],
         'keywords': ['edital', 'estágio', 'seleção'],
         'paused_urls': [], 'schedule_time': '08:00', 'timeout_seconds': 10,
